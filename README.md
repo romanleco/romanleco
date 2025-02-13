@@ -1,4 +1,4 @@
-Helloo, I am Roman, a solo developer making videogames live, and sharing devlogs.
+Helloo, I am Roman, a solo developer making videogames and sharing devlogs.
 
 My social links: https://linktr.ee/romanleco?subscribe
 
